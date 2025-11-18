@@ -1,0 +1,10 @@
+name: 522_project
+channels:
+  - conda-forge
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - pandas
+  - python=3
+prefix: /Users/lishuhang/miniforge3/envs/522_project
